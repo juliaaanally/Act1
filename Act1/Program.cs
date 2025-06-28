@@ -39,5 +39,7 @@ class UnitConverter
         Console.WriteLine("Done. Press any key to exit.");
         Console.ReadKey();
 
+        Console.WriteLine("=== DONE! ===");
+
     }
 }
